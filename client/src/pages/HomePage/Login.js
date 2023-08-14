@@ -71,9 +71,9 @@ const Login = () => {
 
   return (
     <div className="bg">
-      {/* <video autoPlay loop muted>
-        <source src={video} type="video/mp4" />
-      </video> */}
+      <video autoPlay loop muted>
+        <source src="/videos/55.mp4" type="video/mp4" />
+      </video>
       <div className="outer">
         <div className="logo">
           <a href="/">
