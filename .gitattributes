@@ -1,0 +1,8 @@
+client/** linguist-documentation=false
+client/** linguist-vendored=false
+
+server/** linguist-documentation=false
+server/** linguist-vendored=false
+
+game_server/** linguist-documentation=false
+game_server/** linguist-vendored=false
